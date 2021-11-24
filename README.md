@@ -23,8 +23,9 @@
   
 </div>
 <div>
-  <a href="https://github.com/Ph-Carvalho" target="_blank"></a>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+  <a href="https://github.com/Ph-Carvalho" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt ="github">
+   </a>
 </div>
  <div>
   
