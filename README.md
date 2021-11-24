@@ -1,16 +1,34 @@
-### Hi there 👋
+### Olá sou o Kiro :)
+<div>
+  
+##
+  
+</div>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-Carvalho&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div>
+  
+##
+  
+</div>
+<div>
+  <img align="center" alt "html5" src="https://img.shields.io/badge/HTML-282828?style=for-the-badge&logo=html5&logoColor=FF4500">
+  <img align="center" alt "css"  src="https://img.shields.io/badge/CSS-282828?&style=for-the-badge&logo=css3&logoColor=4682B4">
+  <img align="center" alt "javascript"  src="https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div>
+<div>
+  
+##
+  
+</div>
+<div>
+  <a href="https://github.com/Ph-Carvalho" target="_blank"></a>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+</div>
+ <div>
+  
+##
+  
+</div>
 
-<!--
-**Ph-Carvalho/Ph-Carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
